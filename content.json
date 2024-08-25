@@ -2,281 +2,281 @@
     {
         "fi": "avata",
         "ru": "открывать",
-        "src": "/src/img/1.jpg"
+        "src": "src/img/1.jpg"
     },
     {
         "fi": "häiritä",
         "ru": "мешать, беспокоить",
-        "src": "/src/img/2.jpg"
+        "src": "src/img/2.jpg"
     },
     {
         "fi": "juhlia",
         "ru": "праздновать",
-        "src": "/src/img/3.jpg"
+        "src": "src/img/3.jpg"
     },
     {
         "fi": "keskustella",
         "ru": "обсуждать, разговаривать",
-        "src": "/src/img/4.jpg"
+        "src": "src/img/4.jpg"
     },
     {
         "fi": "laulaa",
         "ru": "петь",
-        "src": "/src/img/5.jpg"
+        "src": "src/img/5.jpg"
     },
     {
         "fi": "lähteä",
         "ru": "уходить, отправляться",
-        "src": "/src/img/6.jpg"
+        "src": "src/img/6.jpg"
     },
     {
         "fi": "myydä",
         "ru": "продавать",
-        "src": "/src/img/7.jpg"
+        "src": "src/img/7.jpg"
     },
     {
         "fi": "asua",
         "ru": "жить, проживать",
-        "src": "/src/img/8.jpg"
+        "src": "src/img/8.jpg"
     },
     {
         "fi": "hymyillä",
         "ru": "улыбаться",
-        "src": "/src/img/9.jpg"
+        "src": "src/img/9.jpg"
     },
     {
         "fi": "itkeä",
         "ru": "плакать",
-        "src": "/src/img/10.jpg"
+        "src": "src/img/10.jpg"
     },
     {
         "fi": "katsoa",
         "ru": "смотреть",
-        "src": "/src/img/11.jpg"
+        "src": "src/img/11.jpg"
     },
     {
         "fi": "kävellä",
         "ru": "ходить, гулять",
-        "src": "/src/img/12.jpg"
+        "src": "src/img/12.jpg"
     },
     {
         "fi": "lukea",
         "ru": "читать",
-        "src": "/src/img/13.jpg"
+        "src": "src/img/13.jpg"
     },
     {
         "fi": "mennä",
         "ru": "идти, ехать",
-        "src": "/src/img/14.jpg"
+        "src": "src/img/14.jpg"
     },
     {
         "fi": "antaa",
         "ru": "давать",
-        "src": "/src/img/15.jpg"
+        "src": "src/img/15.jpg"
     },
     {
         "fi": "hiihtää",
         "ru": "кататься на лыжах",
-        "src": "/src/img/16.jpg"
+        "src": "src/img/16.jpg"
     },
     {
         "fi": "istua",
         "ru": "сидеть",
-        "src": "/src/img/17.jpg"
+        "src": "src/img/17.jpg"
     },
     {
         "fi": "juosta",
         "ru": "бежать",
-        "src": "/src/img/18.jpg"
+        "src": "src/img/18.jpg"
     },
     {
         "fi": "korjata",
         "ru": "чинить, исправлять",
-        "src": "/src/img/19.jpg"
+        "src": "src/img/19.jpg"
     },
     {
         "fi": "luistella",
         "ru": "кататься на коньках",
-        "src": "/src/img/20.jpg"
+        "src": "src/img/20.jpg"
     },
     {
         "fi": "matkustaa",
         "ru": "путешествовать",
-        "src": "/src/img/21.jpg"
+        "src": "src/img/21.jpg"
     },
     {
         "fi": "ajaa",
         "ru": "ехать, водить",
-        "src": "/src/img/22.jpg"
+        "src": "src/img/22.jpg"
     },
     {
         "fi": "herätä",
         "ru": "просыпаться",
-        "src": "/src/img/23.jpg"
+        "src": "src/img/23.jpg"
     },
     {
         "fi": "imuroida",
         "ru": "пылесосить",
-        "src": "/src/img/24.jpg"
+        "src": "src/img/24.jpg"
     },
     {
         "fi": "juoda",
         "ru": "пить",
-        "src": "/src/img/25.jpg"
+        "src": "src/img/25.jpg"
     },
     {
         "fi": "kirjoittaa",
         "ru": "писать",
-        "src": "/src/img/26.jpg"
+        "src": "src/img/26.jpg"
     },
     {
         "fi": "lentää",
         "ru": "летать",
-        "src": "/src/img/27.jpg"
+        "src": "src/img/27.jpg"
     },
     {
         "fi": "maksaa",
         "ru": "платить",
-        "src": "/src/img/28.jpg"
+        "src": "src/img/28.jpg"
     },
     {
         "fi": "opiskella",
         "ru": "учиться",
-        "src": "/src/img/29.jpg"
+        "src": "src/img/29.jpg"
     },
     {
         "fi": "pestä",
         "ru": "мыть",
-        "src": "/src/img/30.jpg"
+        "src": "src/img/30.jpg"
     },
     {
         "fi": "pukea päälle",
         "ru": "одевать (на себя)",
-        "src": "/src/img/31.jpg"
+        "src": "src/img/31.jpg"
     },
     {
         "fi": "saunoa",
         "ru": "париться в сауне",
-        "src": "/src/img/32.jpg"
+        "src": "src/img/32.jpg"
     },
     {
         "fi": "soittaa",
         "ru": "играть на музыкальном инструменте, звонить",
-        "src": "/src/img/33.jpg"
+        "src": "src/img/33.jpg"
     },
     {
         "fi": "tilata",
         "ru": "заказывать",
-        "src": "/src/img/34.jpg"
+        "src": "src/img/34.jpg"
     },
     {
         "fi": "valita",
         "ru": "выбирать",
-        "src": "/src/img/35.jpg"
+        "src": "src/img/35.jpg"
     },
     {
         "fi": "nukkua",
         "ru": "спать",
-        "src": "/src/img/36.jpg"
+        "src": "src/img/36.jpg"
     },
     {
         "fi": "pelata",
         "ru": "играть (в игру)",
-        "src": "/src/img/37.jpg"
+        "src": "src/img/37.jpg"
     },
     {
         "fi": "puhua",
         "ru": "говорить",
-        "src": "/src/img/38.jpg"
+        "src": "src/img/38.jpg"
     },
     {
         "fi": "sanoa",
         "ru": "сказать",
-        "src": "/src/img/39.jpg"
+        "src": "src/img/39.jpg"
     },
     {
         "fi": "soida",
         "ru": "звонить (о телефоне, будильнике)",
-        "src": "/src/img/40.jpg"
+        "src": "src/img/40.jpg"
     },
     {
         "fi": "tehdä ruokaa",
         "ru": "готовить еду",
-        "src": "/src/img/41.jpg"
+        "src": "src/img/41.jpg"
     },
     {
         "fi": "uida",
         "ru": "плавать",
-        "src": "/src/img/42.jpg"
+        "src": "src/img/42.jpg"
     },
     {
         "fi": "nousta",
         "ru": "вставать",
-        "src": "/src/img/43.jpg"
+        "src": "src/img/43.jpg"
     },
     {
         "fi": "ottaa",
         "ru": "брать",
-        "src": "/src/img/44.jpg"
+        "src": "src/img/44.jpg"
     },
     {
         "fi": "polttaa tupakkaa",
         "ru": "курить (сигарету)",
-        "src": "/src/img/45.jpg"
+        "src": "src/img/45.jpg"
     },
     {
         "fi": "rakastaa",
         "ru": "любить",
-        "src": "/src/img/46.jpg"
+        "src": "src/img/46.jpg"
     },
     {
         "fi": "siivota",
         "ru": "убираться",
-        "src": "/src/img/47.jpg"
+        "src": "src/img/47.jpg"
     },
     {
         "fi": "tanssia",
         "ru": "танцевать",
-        "src": "/src/img/48.jpg"
+        "src": "src/img/48.jpg"
     },
     {
         "fi": "tulla",
         "ru": "приходить",
-        "src": "/src/img/49.jpg"
+        "src": "src/img/49.jpg"
     },
     {
         "fi": "nauraa",
         "ru": "смеяться",
-        "src": "/src/img/50.jpg"
+        "src": "src/img/50.jpg"
     },
     {
         "fi": "ostaa",
         "ru": "покупать",
-        "src": "/src/img/51.jpg"
+        "src": "src/img/51.jpg"
     },
     {
         "fi": "piirtää",
         "ru": "рисовать",
-        "src": "/src/img/52.jpg"
+        "src": "src/img/52.jpg"
     },
     {
         "fi": "pyöräillä",
         "ru": "кататься на велосипеде",
-        "src": "/src/img/53.jpg"
+        "src": "src/img/53.jpg"
     },
     {
         "fi": "seisoa",
         "ru": "стоять",
-        "src": "/src/img/54.jpg"
+        "src": "src/img/54.jpg"
     },
     {
         "fi": "syödä",
         "ru": "есть",
-        "src": "/src/img/55.jpg"
+        "src": "src/img/55.jpg"
     },
     {
         "fi": "tiskata",
         "ru": "мыть посуду",
-        "src": "/src/img/56.jpg"
+        "src": "src/img/56.jpg"
     }
 ]
